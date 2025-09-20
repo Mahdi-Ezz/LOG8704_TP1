@@ -8,7 +8,7 @@ Pour lancer et tester le projet, build la scène suivante :
 
 ##  Plateformes testées
 - **Windows** avec le simulateur VR intégré à Unity  
-- **Meta Quest 3** (en standalone via build Android)
+- **Meta Quest 3** 
 
 ---
 
@@ -46,4 +46,10 @@ Ces mécanismes réduisent l’inconfort et améliorent l’expérience utilisat
 ##  Démonstration vidéo
 Une démonstration du projet est disponible :  
 
-![Demo Video](demo.mp4)  
+
+https://github.com/user-attachments/assets/88befd58-4cc0-490a-938b-e1447165c538
+
+
+https://youtu.be/_2vZOYQFl3M
+
+
